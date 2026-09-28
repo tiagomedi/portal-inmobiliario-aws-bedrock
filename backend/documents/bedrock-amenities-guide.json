@@ -1,0 +1,490 @@
+{
+  "document_type": "amenities_and_services_guide",
+  "title": "Guía Completa de Amenidades y Servicios Inmobiliarios 2024",
+  "last_updated": "2024-01-15",
+  "amenities_categories": {
+    "basic_amenities": {
+      "title": "Amenidades Básicas",
+      "description": "Servicios esenciales que toda propiedad debe tener",
+      "amenities": [
+        {
+          "name": "Agua corriente",
+          "description": "Suministro de agua potable las 24 horas",
+          "importance": "Esencial",
+          "cost_impact": "Incluido en comunidad",
+          "maintenance": "Comunidad de propietarios"
+        },
+        {
+          "name": "Electricidad",
+          "description": "Suministro eléctrico con potencia adecuada",
+          "importance": "Esencial",
+          "cost_impact": "Variable según consumo",
+          "maintenance": "Propietario"
+        },
+        {
+          "name": "Gas natural",
+          "description": "Suministro de gas para calefacción y cocina",
+          "importance": "Muy importante",
+          "cost_impact": "Variable según consumo",
+          "maintenance": "Propietario"
+        },
+        {
+          "name": "Sistema de calefacción",
+          "description": "Calefacción individual o central",
+          "importance": "Muy importante",
+          "cost_impact": "Variable según sistema",
+          "maintenance": "Propietario/Comunidad"
+        },
+        {
+          "name": "Internet y telecomunicaciones",
+          "description": "Conexión a internet de alta velocidad",
+          "importance": "Muy importante",
+          "cost_impact": "30-80€/mes",
+          "maintenance": "Propietario"
+        }
+      ]
+    },
+    "building_amenities": {
+      "title": "Amenidades del Edificio",
+      "description": "Servicios compartidos del edificio o comunidad",
+      "amenities": [
+        {
+          "name": "Ascensor",
+          "description": "Ascensor para facilitar el acceso a las plantas superiores",
+          "importance": "Muy importante",
+          "cost_impact": "Incluido en comunidad",
+          "maintenance": "Comunidad de propietarios",
+          "value_impact": "+5-10%"
+        },
+        {
+          "name": "Portero/Conserje",
+          "description": "Servicio de portero 24 horas o en horario comercial",
+          "importance": "Importante",
+          "cost_impact": "Incluido en comunidad",
+          "maintenance": "Comunidad de propietarios",
+          "value_impact": "+3-7%"
+        },
+        {
+          "name": "Trastero",
+          "description": "Espacio de almacenamiento adicional",
+          "importance": "Importante",
+          "cost_impact": "Incluido o alquiler adicional",
+          "maintenance": "Comunidad de propietarios",
+          "value_impact": "+2-5%"
+        },
+        {
+          "name": "Parking",
+          "description": "Plaza de garaje cubierta o descubierta",
+          "importance": "Muy importante",
+          "cost_impact": "Incluido o alquiler adicional",
+          "maintenance": "Comunidad de propietarios",
+          "value_impact": "+8-15%"
+        },
+        {
+          "name": "Sistema de seguridad",
+          "description": "Alarmas, cámaras de seguridad, control de acceso",
+          "importance": "Importante",
+          "cost_impact": "Incluido en comunidad",
+          "maintenance": "Comunidad de propietarios",
+          "value_impact": "+3-8%"
+        }
+      ]
+    },
+    "luxury_amenities": {
+      "title": "Amenidades de Lujo",
+      "description": "Servicios premium que añaden valor significativo",
+      "amenities": [
+        {
+          "name": "Piscina",
+          "description": "Piscina comunitaria o privada",
+          "importance": "Premium",
+          "cost_impact": "Incluido en comunidad",
+          "maintenance": "Comunidad de propietarios",
+          "value_impact": "+10-20%",
+          "seasonal_usage": "Verano"
+        },
+        {
+          "name": "Gimnasio",
+          "description": "Gimnasio equipado con máquinas de ejercicio",
+          "importance": "Premium",
+          "cost_impact": "Incluido en comunidad",
+          "maintenance": "Comunidad de propietarios",
+          "value_impact": "+5-12%"
+        },
+        {
+          "name": "Spa y wellness",
+          "description": "Sala de spa, sauna, jacuzzi",
+          "importance": "Lujo",
+          "cost_impact": "Incluido en comunidad",
+          "maintenance": "Comunidad de propietarios",
+          "value_impact": "+8-18%"
+        },
+        {
+          "name": "Terraza comunitaria",
+          "description": "Terraza o azotea compartida con vistas",
+          "importance": "Premium",
+          "cost_impact": "Incluido en comunidad",
+          "maintenance": "Comunidad de propietarios",
+          "value_impact": "+5-15%"
+        },
+        {
+          "name": "Salón de eventos",
+          "description": "Salón para celebraciones y eventos",
+          "importance": "Premium",
+          "cost_impact": "Incluido en comunidad",
+          "maintenance": "Comunidad de propietarios",
+          "value_impact": "+3-8%"
+        },
+        {
+          "name": "Concierge",
+          "description": "Servicio de conserjería de lujo",
+          "importance": "Lujo",
+          "cost_impact": "Incluido en comunidad",
+          "maintenance": "Comunidad de propietarios",
+          "value_impact": "+5-12%"
+        }
+      ]
+    },
+    "outdoor_amenities": {
+      "title": "Amenidades Exteriores",
+      "description": "Espacios y servicios al aire libre",
+      "amenities": [
+        {
+          "name": "Jardín privado",
+          "description": "Jardín privado para uso exclusivo",
+          "importance": "Muy importante",
+          "cost_impact": "Incluido en propiedad",
+          "maintenance": "Propietario",
+          "value_impact": "+8-20%"
+        },
+        {
+          "name": "Terraza privada",
+          "description": "Terraza o balcón privado",
+          "importance": "Importante",
+          "cost_impact": "Incluido en propiedad",
+          "maintenance": "Propietario",
+          "value_impact": "+5-15%"
+        },
+        {
+          "name": "Piscina privada",
+          "description": "Piscina privada en la propiedad",
+          "importance": "Lujo",
+          "cost_impact": "Incluido en propiedad",
+          "maintenance": "Propietario",
+          "value_impact": "+15-30%"
+        },
+        {
+          "name": "Barbacoa",
+          "description": "Zona de barbacoa o parrilla",
+          "importance": "Importante",
+          "cost_impact": "Incluido en propiedad",
+          "maintenance": "Propietario",
+          "value_impact": "+3-8%"
+        },
+        {
+          "name": "Zona de juegos",
+          "description": "Área de juegos para niños",
+          "importance": "Importante para familias",
+          "cost_impact": "Incluido en comunidad",
+          "maintenance": "Comunidad de propietarios",
+          "value_impact": "+2-6%"
+        }
+      ]
+    },
+    "smart_home_amenities": {
+      "title": "Amenidades Smart Home",
+      "description": "Tecnología domótica y automatización",
+      "amenities": [
+        {
+          "name": "Domótica básica",
+          "description": "Control de luces, persianas y temperatura",
+          "importance": "Moderno",
+          "cost_impact": "500-2000€",
+          "maintenance": "Propietario",
+          "value_impact": "+3-8%"
+        },
+        {
+          "name": "Sistema de seguridad inteligente",
+          "description": "Alarmas conectadas, cámaras IP, sensores",
+          "importance": "Premium",
+          "cost_impact": "1000-3000€",
+          "maintenance": "Propietario",
+          "value_impact": "+5-12%"
+        },
+        {
+          "name": "Climatización inteligente",
+          "description": "Control automático de temperatura y humedad",
+          "importance": "Premium",
+          "cost_impact": "2000-5000€",
+          "maintenance": "Propietario",
+          "value_impact": "+4-10%"
+        },
+        {
+          "name": "Sistema de audio/video",
+          "description": "Sistema de sonido y video integrado",
+          "importance": "Lujo",
+          "cost_impact": "3000-10000€",
+          "maintenance": "Propietario",
+          "value_impact": "+3-8%"
+        }
+      ]
+    }
+  },
+  "services_by_property_type": {
+    "apartments": {
+      "essential_services": [
+        "Ascensor",
+        "Portero",
+        "Parking",
+        "Trastero",
+        "Sistema de seguridad"
+      ],
+      "premium_services": [
+        "Piscina",
+        "Gimnasio",
+        "Terraza comunitaria",
+        "Concierge",
+        "Spa"
+      ],
+      "value_impact": {
+        "ascensor": "+5-10%",
+        "portero": "+3-7%",
+        "parking": "+8-15%",
+        "piscina": "+10-20%",
+        "gimnasio": "+5-12%"
+      }
+    },
+    "houses": {
+      "essential_services": [
+        "Jardín privado",
+        "Terraza",
+        "Parking",
+        "Sistema de seguridad",
+        "Barbacoa"
+      ],
+      "premium_services": [
+        "Piscina privada",
+        "Spa privado",
+        "Gimnasio privado",
+        "Domótica completa",
+        "Sistema de riego automático"
+      ],
+      "value_impact": {
+        "jardin_privado": "+8-20%",
+        "terraza": "+5-15%",
+        "piscina_privada": "+15-30%",
+        "domotica": "+3-8%",
+        "barbacoa": "+3-8%"
+      }
+    },
+    "luxury_properties": {
+      "essential_services": [
+        "Concierge 24h",
+        "Sistema de seguridad avanzado",
+        "Domótica completa",
+        "Piscina privada",
+        "Gimnasio privado"
+      ],
+      "premium_services": [
+        "Spa privado",
+        "Sistema de audio/video",
+        "Climatización inteligente",
+        "Jardín paisajístico",
+        "Helipuerto"
+      ],
+      "value_impact": {
+        "concierge": "+5-12%",
+        "spa_privado": "+8-18%",
+        "domotica_completa": "+5-15%",
+        "jardin_paisajistico": "+10-25%"
+      }
+    }
+  },
+  "amenities_by_city": {
+    "madrid": {
+      "most_common": [
+        "Ascensor",
+        "Portero",
+        "Parking",
+        "Terraza",
+        "Sistema de seguridad"
+      ],
+      "premium_amenities": [
+        "Piscina",
+        "Gimnasio",
+        "Concierge",
+        "Spa",
+        "Terraza comunitaria"
+      ],
+      "average_community_fees": "120€/mes",
+      "amenities_demand": "Alto"
+    },
+    "barcelona": {
+      "most_common": [
+        "Ascensor",
+        "Terraza",
+        "Parking",
+        "Sistema de seguridad",
+        "Trastero"
+      ],
+      "premium_amenities": [
+        "Piscina",
+        "Gimnasio",
+        "Terraza comunitaria",
+        "Spa",
+        "Concierge"
+      ],
+      "average_community_fees": "150€/mes",
+      "amenities_demand": "Muy Alto"
+    },
+    "valencia": {
+      "most_common": [
+        "Ascensor",
+        "Terraza",
+        "Parking",
+        "Sistema de seguridad",
+        "Jardín"
+      ],
+      "premium_amenities": [
+        "Piscina",
+        "Gimnasio",
+        "Terraza comunitaria",
+        "Spa",
+        "Zona de juegos"
+      ],
+      "average_community_fees": "85€/mes",
+      "amenities_demand": "Medio-Alto"
+    },
+    "sevilla": {
+      "most_common": [
+        "Ascensor",
+        "Terraza",
+        "Parking",
+        "Sistema de seguridad",
+        "Patio"
+      ],
+      "premium_amenities": [
+        "Piscina",
+        "Gimnasio",
+        "Terraza comunitaria",
+        "Spa",
+        "Jardín"
+      ],
+      "average_community_fees": "95€/mes",
+      "amenities_demand": "Medio"
+    },
+    "malaga": {
+      "most_common": [
+        "Terraza",
+        "Piscina",
+        "Parking",
+        "Sistema de seguridad",
+        "Jardín"
+      ],
+      "premium_amenities": [
+        "Piscina privada",
+        "Spa",
+        "Gimnasio",
+        "Concierge",
+        "Terraza con vistas al mar"
+      ],
+      "average_community_fees": "120€/mes",
+      "amenities_demand": "Muy Alto"
+    }
+  },
+  "maintenance_and_costs": {
+    "annual_maintenance_costs": {
+      "piscina": {
+        "cost": "2000-5000€/año",
+        "frequency": "Mensual",
+        "tasks": ["Limpieza", "Tratamiento químico", "Reparaciones", "Mantenimiento de equipos"]
+      },
+      "gimnasio": {
+        "cost": "1000-3000€/año",
+        "frequency": "Mensual",
+        "tasks": ["Limpieza", "Mantenimiento de máquinas", "Reparaciones", "Actualización de equipos"]
+      },
+      "jardin": {
+        "cost": "500-2000€/año",
+        "frequency": "Semanal",
+        "tasks": ["Riego", "Podas", "Fertilización", "Control de plagas"]
+      },
+      "ascensor": {
+        "cost": "2000-4000€/año",
+        "frequency": "Mensual",
+        "tasks": ["Inspección técnica", "Mantenimiento", "Reparaciones", "Modernización"]
+      },
+      "sistema_seguridad": {
+        "cost": "500-1500€/año",
+        "frequency": "Mensual",
+        "tasks": ["Mantenimiento de cámaras", "Actualización de software", "Reparaciones", "Monitoreo"]
+      }
+    },
+    "cost_benefit_analysis": {
+      "high_value_amenities": [
+        {
+          "amenity": "Parking",
+          "cost": "Incluido en comunidad",
+          "value_add": "+8-15%",
+          "roi": "Excelente"
+        },
+        {
+          "amenity": "Piscina",
+          "cost": "2000-5000€/año",
+          "value_add": "+10-20%",
+          "roi": "Bueno"
+        },
+        {
+          "amenity": "Ascensor",
+          "cost": "2000-4000€/año",
+          "value_add": "+5-10%",
+          "roi": "Excelente"
+        }
+      ],
+      "low_value_amenities": [
+        {
+          "amenity": "Spa",
+          "cost": "3000-8000€/año",
+          "value_add": "+8-18%",
+          "roi": "Regular"
+        },
+        {
+          "amenity": "Concierge",
+          "cost": "Incluido en comunidad",
+          "value_add": "+5-12%",
+          "roi": "Bueno"
+        }
+      ]
+    }
+  },
+  "investment_recommendations": {
+    "essential_for_rental": [
+      "Ascensor",
+      "Parking",
+      "Sistema de seguridad",
+      "Internet",
+      "Terraza o balcón"
+    ],
+    "premium_for_rental": [
+      "Piscina",
+      "Gimnasio",
+      "Portero",
+      "Terraza comunitaria",
+      "Domótica básica"
+    ],
+    "luxury_for_rental": [
+      "Concierge",
+      "Spa",
+      "Domótica completa",
+      "Sistema de audio/video",
+      "Servicios adicionales"
+    ],
+    "amenities_roi_ranking": [
+      {"amenity": "Parking", "roi": "15-25%", "payback_period": "2-3 años"},
+      {"amenity": "Ascensor", "roi": "12-20%", "payback_period": "3-4 años"},
+      {"amenity": "Piscina", "roi": "8-15%", "payback_period": "4-6 años"},
+      {"amenity": "Gimnasio", "roi": "6-12%", "payback_period": "5-8 años"},
+      {"amenity": "Spa", "roi": "4-8%", "payback_period": "8-12 años"}
+    ]
+  }
+}

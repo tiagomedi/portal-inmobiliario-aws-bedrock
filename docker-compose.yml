@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  # Backend API Python con FastAPI
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    image: stellart-homes-backend
+    container_name: stellart-homes-backend
+    env_file:
+      - ./backend/.env
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./backend:/app
+    networks:
+      - stellart-network
+    restart: unless-stopped
+
+  # Frontend HTML/CSS/JS
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    image: stellart-homes-frontend
+    container_name: stellart-homes-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend:/usr/share/nginx/html
+    networks:
+      - stellart-network
+
+networks:
+  stellart-network:
+    driver: bridge

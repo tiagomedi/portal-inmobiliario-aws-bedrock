@@ -1,0 +1,522 @@
+{
+  "document_type": "neighborhoods_and_zones_guide",
+  "title": "Guía Completa de Barrios y Zonas de España 2024",
+  "last_updated": "2024-01-15",
+  "cities": {
+    "madrid": {
+      "city_name": "Madrid",
+      "population": 3223000,
+      "average_price_per_sqm": 4500,
+      "districts": {
+        "centro": {
+          "name": "Centro",
+          "description": "El corazón histórico de Madrid, con calles empedradas, plazas emblemáticas y una rica vida cultural.",
+          "neighborhoods": {
+            "sol": {
+              "name": "Sol",
+              "price_per_sqm": 5200,
+              "characteristics": ["Zona más turística", "Comercio tradicional", "Vida nocturna", "Transporte central"],
+              "demographics": {
+                "average_age": 35,
+                "families_percentage": 25,
+                "students_percentage": 20,
+                "professionals_percentage": 40,
+                "foreigners_percentage": 15
+              },
+              "amenities": {
+                "metro_lines": ["L1", "L2", "L3"],
+                "hospitals": ["Hospital Clínico San Carlos", "Hospital General Universitario Gregorio Marañón"],
+                "schools": ["Colegio San Ildefonso", "IES San Isidro"],
+                "parks": ["Plaza Mayor", "Plaza de la Villa"],
+                "shopping": ["Calle Preciados", "Calle del Carmen", "El Corte Inglés"]
+              },
+              "investment_potential": {
+                "yield": "3.8%",
+                "appreciation": "+7%",
+                "demand": "Alto",
+                "best_for": ["Turismo", "Comercio", "Oficinas"]
+              }
+            },
+            "malasana": {
+              "name": "Malasaña",
+              "price_per_sqm": 5800,
+              "characteristics": ["Barrio hipster", "Vida nocturna", "Cultura alternativa", "Jóvenes creativos"],
+              "demographics": {
+                "average_age": 28,
+                "families_percentage": 15,
+                "students_percentage": 35,
+                "professionals_percentage": 45,
+                "foreigners_percentage": 20
+              },
+              "amenities": {
+                "metro_lines": ["L1", "L2", "L10"],
+                "hospitals": ["Hospital Clínico San Carlos"],
+                "schools": ["IES San Isidro", "Colegio San Ildefonso"],
+                "parks": ["Plaza del 2 de Mayo", "Plaza de San Ildefonso"],
+                "shopping": ["Calle Fuencarral", "Calle del Pez", "Mercado de San Ildefonso"]
+              },
+              "investment_potential": {
+                "yield": "4.2%",
+                "appreciation": "+9%",
+                "demand": "Muy Alto",
+                "best_for": ["Alquiler joven", "Comercio alternativo", "Hostales"]
+              }
+            },
+            "chueca": {
+              "name": "Chueca",
+              "price_per_sqm": 6200,
+              "characteristics": ["Barrio LGTB+", "Moda y diseño", "Gastronomía", "Vida cultural"],
+              "demographics": {
+                "average_age": 32,
+                "families_percentage": 20,
+                "students_percentage": 15,
+                "professionals_percentage": 50,
+                "foreigners_percentage": 25
+              },
+              "amenities": {
+                "metro_lines": ["L5", "L10"],
+                "hospitals": ["Hospital Clínico San Carlos"],
+                "schools": ["Colegio San Ildefonso"],
+                "parks": ["Plaza de Chueca", "Plaza de Vázquez de Mella"],
+                "shopping": ["Calle Fuencarral", "Calle de Almirante", "Mercado de San Antón"]
+              },
+              "investment_potential": {
+                "yield": "4.0%",
+                "appreciation": "+8%",
+                "demand": "Alto",
+                "best_for": ["Alquiler premium", "Comercio especializado", "Restaurantes"]
+              }
+            }
+          }
+        },
+        "chamberi": {
+          "name": "Chamberí",
+          "description": "Distrito residencial de clase media-alta, con amplias avenidas, parques y excelente comunicación.",
+          "neighborhoods": {
+            "salamanca": {
+              "name": "Salamanca",
+              "price_per_sqm": 8500,
+              "characteristics": ["Zona de lujo", "Alta gama", "Diplomáticos", "Comercio exclusivo"],
+              "demographics": {
+                "average_age": 45,
+                "families_percentage": 60,
+                "students_percentage": 5,
+                "professionals_percentage": 30,
+                "foreigners_percentage": 35
+              },
+              "amenities": {
+                "metro_lines": ["L4", "L5", "L6", "L7"],
+                "hospitals": ["Hospital Ruber Internacional", "Clínica Universidad de Navarra"],
+                "schools": ["Colegio San Patricio", "Liceo Francés"],
+                "parks": ["Parque del Retiro", "Plaza de Colón"],
+                "shopping": ["Calle Serrano", "Calle de Velázquez", "El Corte Inglés"]
+              },
+              "investment_potential": {
+                "yield": "3.8%",
+                "appreciation": "+10%",
+                "demand": "Muy Alto",
+                "best_for": ["Lujo", "Diplomáticos", "Ejecutivos"]
+              }
+            },
+            "chamberi": {
+              "name": "Chamberí",
+              "price_per_sqm": 6200,
+              "characteristics": ["Familias", "Profesionales", "Bien comunicado", "Equilibrado"],
+              "demographics": {
+                "average_age": 38,
+                "families_percentage": 55,
+                "students_percentage": 10,
+                "professionals_percentage": 40,
+                "foreigners_percentage": 20
+              },
+              "amenities": {
+                "metro_lines": ["L1", "L2", "L6", "L7"],
+                "hospitals": ["Hospital Clínico San Carlos", "Hospital Ruber Internacional"],
+                "schools": ["Colegio San Patricio", "IES San Isidro"],
+                "parks": ["Plaza de Chamberí", "Plaza de Olavide"],
+                "shopping": ["Calle Fuencarral", "Calle de Génova", "Mercado de Chamberí"]
+              },
+              "investment_potential": {
+                "yield": "4.2%",
+                "appreciation": "+8%",
+                "demand": "Alto",
+                "best_for": ["Familias", "Profesionales", "Alquiler estable"]
+              }
+            }
+          }
+        }
+      }
+    },
+    "barcelona": {
+      "city_name": "Barcelona",
+      "population": 1636000,
+      "average_price_per_sqm": 5200,
+      "districts": {
+        "eixample": {
+          "name": "Eixample",
+          "description": "El distrito modernista por excelencia, con la arquitectura de Gaudí y una estructura urbana única.",
+          "neighborhoods": {
+            "eixample_dreta": {
+              "name": "Eixample Dreta",
+              "price_per_sqm": 7500,
+              "characteristics": ["Modernista", "Céntrico", "Comercial", "Paseo de Gracia"],
+              "demographics": {
+                "average_age": 40,
+                "families_percentage": 45,
+                "students_percentage": 10,
+                "professionals_percentage": 40,
+                "foreigners_percentage": 30
+              },
+              "amenities": {
+                "metro_lines": ["L2", "L3", "L4"],
+                "hospitals": ["Hospital Clínic", "Hospital Sant Pau"],
+                "schools": ["Colegio Montserrat", "Liceo Francés"],
+                "parks": ["Plaza de Catalunya", "Plaza de la Universidad"],
+                "shopping": ["Paseo de Gracia", "Calle de Aragón", "El Corte Inglés"]
+              },
+              "investment_potential": {
+                "yield": "3.5%",
+                "appreciation": "+12%",
+                "demand": "Muy Alto",
+                "best_for": ["Lujo", "Turismo", "Comercio"]
+              }
+            },
+            "gracia": {
+              "name": "Gràcia",
+              "price_per_sqm": 6800,
+              "characteristics": ["Bohemio", "Joven", "Cultural", "Plazas"],
+              "demographics": {
+                "average_age": 32,
+                "families_percentage": 35,
+                "students_percentage": 25,
+                "professionals_percentage": 45,
+                "foreigners_percentage": 25
+              },
+              "amenities": {
+                "metro_lines": ["L3", "L4"],
+                "hospitals": ["Hospital Clínic"],
+                "schools": ["IES Gràcia", "Colegio Montserrat"],
+                "parks": ["Plaza de la Vila de Gràcia", "Plaza de la Virreina"],
+                "shopping": ["Calle de Verdi", "Calle de Gran de Gràcia", "Mercado de la Abacería"]
+              },
+              "investment_potential": {
+                "yield": "4.0%",
+                "appreciation": "+13%",
+                "demand": "Muy Alto",
+                "best_for": ["Jóvenes", "Creativos", "Alquiler cultural"]
+              }
+            }
+          }
+        },
+        "ciutat_vella": {
+          "name": "Ciutat Vella",
+          "description": "El casco antiguo de Barcelona, con el Barrio Gótico, El Born y el Raval.",
+          "neighborhoods": {
+            "gotic": {
+              "name": "Barrio Gótico",
+              "price_per_sqm": 5800,
+              "characteristics": ["Histórico", "Turístico", "Catedral", "Calles estrechas"],
+              "demographics": {
+                "average_age": 35,
+                "families_percentage": 20,
+                "students_percentage": 15,
+                "professionals_percentage": 35,
+                "foreigners_percentage": 40
+              },
+              "amenities": {
+                "metro_lines": ["L1", "L3", "L4"],
+                "hospitals": ["Hospital de la Santa Creu i Sant Pau"],
+                "schools": ["IES Montjuïc"],
+                "parks": ["Plaza de Sant Jaume", "Plaza de la Catedral"],
+                "shopping": ["Calle de la Boquería", "Calle de Ferran", "Mercado de la Boquería"]
+              },
+              "investment_potential": {
+                "yield": "4.5%",
+                "appreciation": "+10%",
+                "demand": "Alto",
+                "best_for": ["Turismo", "Hostales", "Comercio histórico"]
+              }
+            },
+            "born": {
+              "name": "El Born",
+              "price_per_sqm": 6200,
+              "characteristics": ["Hipster", "Gastronomía", "Arte", "Mercado de Santa Caterina"],
+              "demographics": {
+                "average_age": 30,
+                "families_percentage": 25,
+                "students_percentage": 20,
+                "professionals_percentage": 45,
+                "foreigners_percentage": 30
+              },
+              "amenities": {
+                "metro_lines": ["L1", "L4"],
+                "hospitals": ["Hospital de la Santa Creu i Sant Pau"],
+                "schools": ["IES Montjuïc"],
+                "parks": ["Parc de la Ciutadella", "Plaza de Sant Pere"],
+                "shopping": ["Calle de Montcada", "Calle de Princesa", "Mercado de Santa Caterina"]
+              },
+              "investment_potential": {
+                "yield": "4.2%",
+                "appreciation": "+11%",
+                "demand": "Muy Alto",
+                "best_for": ["Gastronomía", "Arte", "Alquiler premium"]
+              }
+            }
+          }
+        }
+      }
+    },
+    "valencia": {
+      "city_name": "Valencia",
+      "population": 800000,
+      "average_price_per_sqm": 2800,
+      "districts": {
+        "eixample": {
+          "name": "Eixample",
+          "description": "El ensanche moderno de Valencia, con amplias avenidas y arquitectura del siglo XIX.",
+          "neighborhoods": {
+            "ruzafa": {
+              "name": "Ruzafa",
+              "price_per_sqm": 3800,
+              "characteristics": ["Hipster", "Gastronomía", "Joven", "Cultural"],
+              "demographics": {
+                "average_age": 30,
+                "families_percentage": 30,
+                "students_percentage": 25,
+                "professionals_percentage": 45,
+                "foreigners_percentage": 20
+              },
+              "amenities": {
+                "metro_lines": ["L3", "L5"],
+                "hospitals": ["Hospital Clínico Universitario", "Hospital La Fe"],
+                "schools": ["IES Ruzafa", "Colegio San José"],
+                "parks": ["Plaza de Ruzafa", "Jardín del Turia"],
+                "shopping": ["Calle de Sueca", "Calle de Cuba", "Mercado de Ruzafa"]
+              },
+              "investment_potential": {
+                "yield": "5.5%",
+                "appreciation": "+10%",
+                "demand": "Muy Alto",
+                "best_for": ["Jóvenes", "Gastronomía", "Alquiler cultural"]
+              }
+            }
+          }
+        },
+        "poblats_maritims": {
+          "name": "Poblats Marítims",
+          "description": "Los barrios marítimos de Valencia, con playas, paseo marítimo y ambiente veraniego.",
+          "neighborhoods": {
+            "malvarrosa": {
+              "name": "Malvarrosa",
+              "price_per_sqm": 3500,
+              "characteristics": ["Playa", "Familiar", "Turístico", "Paseo marítimo"],
+              "demographics": {
+                "average_age": 40,
+                "families_percentage": 60,
+                "students_percentage": 5,
+                "professionals_percentage": 30,
+                "foreigners_percentage": 15
+              },
+              "amenities": {
+                "metro_lines": ["L5"],
+                "hospitals": ["Hospital Clínico Universitario"],
+                "schools": ["IES Malvarrosa", "Colegio San José"],
+                "parks": ["Paseo Marítimo", "Playa de la Malvarrosa"],
+                "shopping": ["Calle de Eugenia Viñes", "Mercado de Malvarrosa"]
+              },
+              "investment_potential": {
+                "yield": "5.8%",
+                "appreciation": "+7%",
+                "demand": "Alto",
+                "best_for": ["Familias", "Turismo", "Segunda residencia"]
+              }
+            }
+          }
+        }
+      }
+    },
+    "sevilla": {
+      "city_name": "Sevilla",
+      "population": 690000,
+      "average_price_per_sqm": 2200,
+      "districts": {
+        "triana": {
+          "name": "Triana",
+          "description": "El barrio flamenco por excelencia, con tradición ceramista y ambiente auténtico.",
+          "neighborhoods": {
+            "triana": {
+              "name": "Triana",
+              "price_per_sqm": 3200,
+              "characteristics": ["Flamenco", "Histórico", "Cerámica", "Auténtico"],
+              "demographics": {
+                "average_age": 38,
+                "families_percentage": 50,
+                "students_percentage": 15,
+                "professionals_percentage": 35,
+                "foreigners_percentage": 10
+              },
+              "amenities": {
+                "metro_lines": ["L1"],
+                "hospitals": ["Hospital Virgen del Rocío", "Hospital Universitario Virgen Macarena"],
+                "schools": ["IES Triana", "Colegio San José"],
+                "parks": ["Plaza de Altozano", "Jardines de Cristina"],
+                "shopping": ["Calle de San Jacinto", "Mercado de Triana"]
+              },
+              "investment_potential": {
+                "yield": "4.8%",
+                "appreciation": "+9%",
+                "demand": "Alto",
+                "best_for": ["Turismo cultural", "Flamenco", "Alquiler auténtico"]
+              }
+            }
+          }
+        }
+      }
+    },
+    "malaga": {
+      "city_name": "Málaga",
+      "population": 578000,
+      "average_price_per_sqm": 3500,
+      "districts": {
+        "centro": {
+          "name": "Centro",
+          "description": "El centro histórico de Málaga, con la Alcazaba, el Teatro Romano y ambiente cultural.",
+          "neighborhoods": {
+            "soho": {
+              "name": "Soho",
+              "price_per_sqm": 3200,
+              "characteristics": ["Arte", "Moderno", "Creativo", "Museos"],
+              "demographics": {
+                "average_age": 32,
+                "families_percentage": 25,
+                "students_percentage": 20,
+                "professionals_percentage": 45,
+                "foreigners_percentage": 25
+              },
+              "amenities": {
+                "metro_lines": ["L1", "L2"],
+                "hospitals": ["Hospital Clínico Universitario", "Hospital Quirón"],
+                "schools": ["IES Vicente Espinel", "Colegio San José"],
+                "parks": ["Plaza de la Merced", "Jardín Botánico"],
+                "shopping": ["Calle Larios", "Calle de la Victoria", "Mercado de Atarazanas"]
+              },
+              "investment_potential": {
+                "yield": "5.2%",
+                "appreciation": "+20%",
+                "demand": "Muy Alto",
+                "best_for": ["Arte", "Creativos", "Alquiler cultural"]
+              }
+            }
+          }
+        },
+        "limonar": {
+          "name": "El Limonar",
+          "description": "Zona residencial de lujo con vistas al mar y ambiente exclusivo.",
+          "neighborhoods": {
+            "limonar": {
+              "name": "El Limonar",
+              "price_per_sqm": 4500,
+              "characteristics": ["Lujo", "Mar", "Exclusivo", "Vistas"],
+              "demographics": {
+                "average_age": 45,
+                "families_percentage": 70,
+                "students_percentage": 5,
+                "professionals_percentage": 25,
+                "foreigners_percentage": 40
+              },
+              "amenities": {
+                "metro_lines": ["L2"],
+                "hospitals": ["Hospital Quirón", "Clínica San Rafael"],
+                "schools": ["Colegio San Patricio", "Liceo Francés"],
+                "parks": ["Paseo de Reding", "Jardines de Puerta Oscura"],
+                "shopping": ["Calle de Larios", "El Corte Inglés"]
+              },
+              "investment_potential": {
+                "yield": "4.0%",
+                "appreciation": "+18%",
+                "demand": "Muy Alto",
+                "best_for": ["Lujo", "Internacional", "Segunda residencia"]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "neighborhood_comparison": {
+    "by_price_range": {
+      "luxury": [
+        {"neighborhood": "Salamanca, Madrid", "price_per_sqm": 8500, "yield": "3.8%"},
+        {"neighborhood": "Eixample Dreta, Barcelona", "price_per_sqm": 7500, "yield": "3.5%"},
+        {"neighborhood": "El Limonar, Málaga", "price_per_sqm": 4500, "yield": "4.0%"}
+      ],
+      "mid_range": [
+        {"neighborhood": "Chamberí, Madrid", "price_per_sqm": 6200, "yield": "4.2%"},
+        {"neighborhood": "Gràcia, Barcelona", "price_per_sqm": 6800, "yield": "4.0%"},
+        {"neighborhood": "Ruzafa, Valencia", "price_per_sqm": 3800, "yield": "5.5%"}
+      ],
+      "affordable": [
+        {"neighborhood": "Malasaña, Madrid", "price_per_sqm": 5800, "yield": "4.2%"},
+        {"neighborhood": "Soho, Málaga", "price_per_sqm": 3200, "yield": "5.2%"},
+        {"neighborhood": "Triana, Sevilla", "price_per_sqm": 3200, "yield": "4.8%"}
+      ]
+    },
+    "by_yield": {
+      "highest_yield": [
+        {"neighborhood": "Malvarrosa, Valencia", "yield": "5.8%", "price_per_sqm": 3500},
+        {"neighborhood": "Ruzafa, Valencia", "yield": "5.5%", "price_per_sqm": 3800},
+        {"neighborhood": "Soho, Málaga", "yield": "5.2%", "price_per_sqm": 3200}
+      ],
+      "stable_yield": [
+        {"neighborhood": "Chamberí, Madrid", "yield": "4.2%", "price_per_sqm": 6200},
+        {"neighborhood": "Malasaña, Madrid", "yield": "4.2%", "price_per_sqm": 5800},
+        {"neighborhood": "Gràcia, Barcelona", "yield": "4.0%", "price_per_sqm": 6800}
+      ]
+    },
+    "by_appreciation": {
+      "highest_growth": [
+        {"neighborhood": "Soho, Málaga", "appreciation": "+20%", "price_per_sqm": 3200},
+        {"neighborhood": "El Limonar, Málaga", "appreciation": "+18%", "price_per_sqm": 4500},
+        {"neighborhood": "Gràcia, Barcelona", "appreciation": "+13%", "price_per_sqm": 6800}
+      ]
+    }
+  },
+  "lifestyle_profiles": {
+    "young_professionals": {
+      "recommended_neighborhoods": [
+        "Malasaña, Madrid",
+        "Gràcia, Barcelona", 
+        "Ruzafa, Valencia",
+        "Soho, Málaga"
+      ],
+      "key_factors": ["Vida nocturna", "Transporte público", "Precios asequibles", "Ambiente joven"]
+    },
+    "families": {
+      "recommended_neighborhoods": [
+        "Chamberí, Madrid",
+        "Eixample, Barcelona",
+        "Malvarrosa, Valencia",
+        "El Limonar, Málaga"
+      ],
+      "key_factors": ["Colegios", "Parques", "Seguridad", "Servicios"]
+    },
+    "retirees": {
+      "recommended_neighborhoods": [
+        "Salamanca, Madrid",
+        "Eixample Dreta, Barcelona",
+        "Malvarrosa, Valencia",
+        "El Limonar, Málaga"
+      ],
+      "key_factors": ["Servicios médicos", "Tranquilidad", "Accesibilidad", "Calidad de vida"]
+    },
+    "investors": {
+      "recommended_neighborhoods": [
+        "Ruzafa, Valencia",
+        "Malvarrosa, Valencia",
+        "Soho, Málaga",
+        "Chamberí, Madrid"
+      ],
+      "key_factors": ["Alto rendimiento", "Apreciación", "Demanda", "Liquidez"]
+    }
+  }
+}

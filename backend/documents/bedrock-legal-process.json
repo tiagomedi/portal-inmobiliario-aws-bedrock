@@ -1,0 +1,141 @@
+{
+  "document_type": "legal_process_guide",
+  "title": "Guía de Procesos Legales - STELLART HOMES",
+  "last_updated": "2024-01-15",
+  "processes": {
+    "compra_venta": {
+      "title": "Proceso de Compra-Venta",
+      "phases": [
+        {
+          "phase": 1,
+          "name": "Búsqueda y Selección",
+          "steps": [
+            "Definir necesidades: Tipo de propiedad, ubicación, presupuesto, características",
+            "Búsqueda activa: Utilizar portales inmobiliarios, contactar agentes, visitar zonas",
+            "Preselección: Crear lista de propiedades de interés",
+            "Visitas: Inspeccionar propiedades preseleccionadas"
+          ],
+          "duration": "1-3 meses"
+        },
+        {
+          "phase": 2,
+          "name": "Evaluación y Negociación",
+          "steps": [
+            "Evaluación técnica: Inspección profesional si es necesario",
+            "Investigación legal: Verificar títulos, cargas, deudas",
+            "Negociación de precio: Presentar oferta y negociar términos",
+            "Acuerdo preliminar: Firmar contrato de arras o reserva"
+          ],
+          "duration": "1-2 semanas"
+        },
+        {
+          "phase": 3,
+          "name": "Documentación y Financiación",
+          "steps": [
+            "Solicitud de financiación: Si se requiere hipoteca",
+            "Recopilación de documentos: DNI, ingresos, avales, etc.",
+            "Tasación: Si es necesaria para la hipoteca",
+            "Aprobación crediticia: Confirmación del banco"
+          ],
+          "duration": "2-4 semanas"
+        },
+        {
+          "phase": 4,
+          "name": "Escrituración",
+          "steps": [
+            "Cita notarial: Coordinar fecha y hora",
+            "Revisión de escritura: Verificar todos los datos",
+            "Firma: Completar la transmisión de propiedad",
+            "Registro: Inscribir la propiedad en el Registro"
+          ],
+          "duration": "1-2 semanas"
+        },
+        {
+          "phase": 5,
+          "name": "Entrega y Post-Venta",
+          "steps": [
+            "Entrega de llaves: Acceso a la propiedad",
+            "Cambio de suministros: Agua, luz, gas, internet",
+            "Comunidad de propietarios: Inscripción si aplica",
+            "Seguimiento: Resolver dudas post-compra"
+          ],
+          "duration": "1 semana"
+        }
+      ]
+    },
+    "documentos_requeridos": {
+      "title": "Documentos Necesarios",
+      "categories": {
+        "identificacion": {
+          "title": "Identificación",
+          "documents": [
+            "DNI o NIE (Número de Identidad de Extranjero)",
+            "Certificado de residencia (para extranjeros)",
+            "Certificado de empadronamiento"
+          ]
+        },
+        "financieros": {
+          "title": "Financieros",
+          "documents": [
+            "Comprobantes de ingresos últimos 3 meses",
+            "Declaración de la renta",
+            "Certificado de deudas",
+            "Aval bancario (si es necesario)"
+          ]
+        },
+        "propiedad": {
+          "title": "Propiedad",
+          "documents": [
+            "Escritura de compraventa",
+            "Título de propiedad",
+            "Certificado de deudas",
+            "Plano de mensura",
+            "Certificado de dominio",
+            "Certificado de habitabilidad",
+            "Certificado energético"
+          ]
+        }
+      }
+    },
+    "impuestos_tasas": {
+      "title": "Impuestos y Tasas",
+      "taxes": [
+        {
+          "name": "ITP (Impuesto de Transmisiones Patrimoniales)",
+          "rate": "6-10% del valor",
+          "applies_to": "Vivienda usada"
+        },
+        {
+          "name": "IVA",
+          "rate": "10% del valor",
+          "applies_to": "Vivienda nueva"
+        },
+        {
+          "name": "Plusvalía municipal",
+          "rate": "Variable según municipio",
+          "applies_to": "Todas las propiedades"
+        },
+        {
+          "name": "Gastos notariales",
+          "rate": "0.5-1% del valor",
+          "applies_to": "Todas las transacciones"
+        },
+        {
+          "name": "Gastos registrales",
+          "rate": "0.5% del valor",
+          "applies_to": "Todas las transacciones"
+        }
+      ]
+    },
+    "requisitos_extranjeros": {
+      "title": "Requisitos para Extranjeros",
+      "requirements": [
+        "NIE (Número de Identidad de Extranjero)",
+        "Certificado de residencia",
+        "Traducción jurada de documentos si es necesario",
+        "Aval bancario en algunos casos",
+        "Seguro de responsabilidad civil"
+      ]
+    }
+  }
+}

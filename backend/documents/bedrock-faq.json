@@ -1,0 +1,77 @@
+{
+  "document_type": "frequently_asked_questions",
+  "title": "Preguntas Frecuentes - STELLART HOMES",
+  "last_updated": "2024-01-15",
+  "faq_categories": {
+    "compra_propiedades": {
+      "category": "Compra de Propiedades",
+      "questions": [
+        {
+          "question": "¿Cuáles son los requisitos para comprar una propiedad?",
+          "answer": "Necesitas documento de identidad (DNI/NIE), comprobantes de ingresos de los últimos 3 meses, certificado de domicilio, historial crediticio y un anticipo del 20-30% del valor de la propiedad.",
+          "keywords": ["requisitos", "compra", "documentos", "anticipo"]
+        },
+        {
+          "question": "¿Cuánto tiempo toma el proceso de compra?",
+          "answer": "El proceso completo toma entre 3 y 6 meses, dependiendo de la documentación y la financiación. La búsqueda puede tomar 1-3 meses, la negociación 1-2 semanas, la documentación 2-4 semanas y la escrituración 1-2 semanas.",
+          "keywords": ["tiempo", "proceso", "compra", "duración"]
+        },
+        {
+          "question": "¿Qué gastos adicionales debo considerar?",
+          "answer": "Además del precio de la propiedad, debes considerar: ITP (Impuesto de Transmisiones Patrimoniales) 6-10%, IVA 10% (vivienda nueva), notaría 0.5-1%, registro 0.5%, gestoría y gastos administrativos varios.",
+          "keywords": ["gastos", "adicionales", "impuestos", "notaría"]
+        },
+        {
+          "question": "¿Puedo comprar una propiedad sin crédito hipotecario?",
+          "answer": "Sí, puedes comprar con efectivo, financiación directa del vendedor, préstamo personal o combinando varias opciones. El anticipo mínimo suele ser del 20-30% del valor.",
+          "keywords": ["hipoteca", "efectivo", "financiación", "anticipo"]
+        }
+      ]
+    },
+    "tipos_propiedades": {
+      "category": "Tipos de Propiedades",
+      "questions": [
+        {
+          "question": "¿Qué tipos de propiedades puedo comprar?",
+          "answer": "Casas, departamentos, terrenos, lofts, locales comerciales, oficinas y otros tipos de inmuebles, según tu presupuesto y necesidades.",
+          "keywords": ["tipos", "propiedades", "casas", "departamentos", "terrenos"]
+        },
+        {
+          "question": "¿Cómo sé si el precio es justo?",
+          "answer": "Compara con propiedades similares en la zona, consulta tasaciones profesionales, investiga el mercado local y considera factores como ubicación, estado y características.",
+          "keywords": ["precio", "justo", "tasación", "mercado", "comparar"]
+        },
+        {
+          "question": "¿Puedo visitar la propiedad antes de comprar?",
+          "answer": "Sí, es altamente recomendable. Puedes visitarla varias veces, en diferentes horarios y días, y llevar a un profesional para que la evalúe.",
+          "keywords": ["visitar", "propiedad", "inspección", "evaluación"]
+        },
+        {
+          "question": "¿Qué debo verificar en la visita?",
+          "answer": "Estado general, funcionamiento de servicios, problemas estructurales, iluminación, ventilación, ruidos, vecinos, seguridad y accesos.",
+          "keywords": ["verificar", "visita", "estado", "servicios", "estructura"]
+        }
+      ]
+    },
+    "ubicaciones": {
+      "category": "Ubicaciones",
+      "questions": [
+        {
+          "question": "¿En qué zonas puedo comprar?",
+          "answer": "En Madrid, Barcelona, Valencia, Sevilla, Málaga, Bilbao, Alicante, Granada, Zaragoza, Palma de Mallorca y otras ciudades principales de España.",
+          "keywords": ["zonas", "ciudades", "ubicaciones", "madrid", "barcelona"]
+        },
+        {
+          "question": "¿Cuál es la mejor zona para comprar?",
+          "answer": "Depende de tus necesidades: trabajo, familia, presupuesto, transporte, servicios, seguridad y estilo de vida que busques.",
+          "keywords": ["mejor", "zona", "necesidades", "trabajo", "familia"]
+        },
+        {
+          "question": "¿Qué servicios debo verificar en la zona?",
+          "answer": "Transporte público, colegios, hospitales, comercios, bancos, farmacias, zonas verdes, seguridad y conectividad.",
+          "keywords": ["servicios", "zona", "transporte", "colegios", "hospitales"]
+        }
+      ]
+    }
+  }
+}

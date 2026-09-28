@@ -1,0 +1,10 @@
+{
+    "knowledge_base_id": "MWH2ROF8XW",
+    "knowledge_base_name": "knowledge-base-quick-start-o7ytz",
+    "role_arn": "arn:aws:iam::654654215364:role/AmazonBedrockExecutionRoleForKnowledgeBase_o7ytz",
+    "use_direct_rag": false,
+    "region": "us-east-1",
+    "model_id": "anthropic.claude-3-sonnet-20240229-v1:0",
+    "created_at": "2025-09-11T16:58:00Z",
+    "note": "Knowledge Base creada manualmente en AWS Console"
+}

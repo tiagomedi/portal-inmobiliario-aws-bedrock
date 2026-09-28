@@ -1,0 +1,259 @@
+{
+  "document_type": "detailed_properties_catalog",
+  "title": "Catálogo Detallado de Propiedades - STELLART HOMES",
+  "last_updated": "2024-01-15",
+  "properties": [
+    {
+      "id": "MAD001",
+      "title": "Casa Moderna en Chamberí",
+      "location": "Chamberí, Madrid",
+      "price": 650000,
+      "price_per_sqm": 5417,
+      "type": "Casa",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 120,
+      "year_built": 2018,
+      "energy_rating": "B",
+      "description": "Casa moderna de 4 dormitorios en el prestigioso barrio de Chamberí. Completamente reformada en 2018, cuenta con diseño contemporáneo y acabados de alta calidad.",
+      "features": [
+        "Jardín privado de 50m²",
+        "Terraza de 20m²",
+        "Cochera para 2 vehículos",
+        "Suelo de parquet de roble",
+        "Cocina equipada con electrodomésticos Bosch",
+        "Sistema de calefacción por suelo radiante",
+        "Aire acondicionado en todas las habitaciones",
+        "Alarmas de seguridad",
+        "Ascensor privado"
+      ],
+      "amenities": [
+        "Cerca del metro (Líneas 1, 2, 6, 7)",
+        "Colegios privados en 500m",
+        "Hospitales en 1km",
+        "Zona comercial completa",
+        "Parques cercanos (Retiro a 15 min caminando)"
+      ],
+      "investment_potential": {
+        "rental_yield": "4.2%",
+        "price_trend": "+8.5% anual",
+        "demand_level": "Alto",
+        "target_tenants": ["Familias profesionales", "Ejecutivos", "Diplomáticos"]
+      },
+      "legal_status": "Libre de cargas",
+      "community_fees": 120,
+      "property_tax": 1800,
+      "images": ["/images/madrid-chamberi-1.jpg", "/images/madrid-chamberi-2.jpg"],
+      "virtual_tour": "https://stellarthomes.es/tours/MAD001"
+    },
+    {
+      "id": "BCN002",
+      "title": "Ático con Terraza en Eixample",
+      "location": "Eixample, Barcelona",
+      "price": 750000,
+      "price_per_sqm": 7500,
+      "type": "Ático",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 100,
+      "terrace_area": 80,
+      "year_built": 2020,
+      "energy_rating": "A",
+      "description": "Ático de lujo en el corazón del Eixample barcelonés. Obra nueva con terraza privada de 80m² y vistas panorámicas de la ciudad.",
+      "features": [
+        "Terraza privada de 80m²",
+        "Piscina en la azotea comunitaria",
+        "Gimnasio privado",
+        "Suelo de mármol",
+        "Cocina de diseño con isla central",
+        "Domótica completa",
+        "Parking subterráneo",
+        "Portero 24h",
+        "Zona de lavandería"
+      ],
+      "amenities": [
+        "Metro Passeig de Gràcia (2 min)",
+        "Paseo de Gracia (5 min)",
+        "Sagrada Familia (10 min)",
+        "Hospitales privados cercanos",
+        "Restaurantes Michelin en la zona"
+      ],
+      "investment_potential": {
+        "rental_yield": "3.8%",
+        "price_trend": "+12% anual",
+        "demand_level": "Muy Alto",
+        "target_tenants": ["Ejecutivos internacionales", "Inversores", "Turistas de lujo"]
+      },
+      "legal_status": "Libre de cargas",
+      "community_fees": 280,
+      "property_tax": 2200,
+      "images": ["/images/barcelona-eixample-1.jpg", "/images/barcelona-eixample-2.jpg"],
+      "virtual_tour": "https://stellarthomes.es/tours/BCN002"
+    },
+    {
+      "id": "VAL003",
+      "title": "Casa de Playa en Malvarrosa",
+      "location": "Malvarrosa, Valencia",
+      "price": 420000,
+      "price_per_sqm": 3500,
+      "type": "Casa",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 120,
+      "year_built": 2015,
+      "energy_rating": "C",
+      "description": "Casa de playa a 200 metros del mar en la famosa playa de Malvarrosa. Ideal para residencia permanente o segunda vivienda.",
+      "features": [
+        "Terraza con vistas al mar",
+        "Jardín de 60m²",
+        "Cochera cubierta",
+        "Suelo de gres porcelánico",
+        "Cocina abierta al salón",
+        "Aire acondicionado",
+        "Calefacción individual",
+        "Persianas automáticas"
+      ],
+      "amenities": [
+        "Playa de Malvarrosa (200m)",
+        "Paseo marítimo (100m)",
+        "Restaurantes de paella",
+        "Transporte público",
+        "Centro de Valencia (15 min en metro)"
+      ],
+      "investment_potential": {
+        "rental_yield": "5.1%",
+        "price_trend": "+6% anual",
+        "demand_level": "Alto",
+        "target_tenants": ["Familias", "Turistas", "Profesionales del puerto"]
+      },
+      "legal_status": "Libre de cargas",
+      "community_fees": 85,
+      "property_tax": 1200,
+      "images": ["/images/valencia-malvarrosa-1.jpg", "/images/valencia-malvarrosa-2.jpg"],
+      "virtual_tour": "https://stellarthomes.es/tours/VAL003"
+    },
+    {
+      "id": "SEV004",
+      "title": "Casa Histórica en Triana",
+      "location": "Triana, Sevilla",
+      "price": 380000,
+      "price_per_sqm": 3167,
+      "type": "Casa",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 120,
+      "year_built": 1890,
+      "renovation_year": 2020,
+      "energy_rating": "D",
+      "description": "Casa histórica del siglo XIX completamente restaurada en el barrio flamenco de Triana. Mantiene la arquitectura original con comodidades modernas.",
+      "features": [
+        "Patio andaluz de 40m²",
+        "Azulejos originales restaurados",
+        "Vigas de madera vistas",
+        "Suelo de barro cocido",
+        "Cocina moderna integrada",
+        "Climatización eficiente",
+        "Ascensor privado",
+        "Almacén en sótano"
+      ],
+      "amenities": [
+        "Centro histórico (5 min caminando)",
+        "Mercado de Triana (2 min)",
+        "Metro (5 min)",
+        "Zona de tapas tradicionales",
+        "Catedral y Giralda (10 min)"
+      ],
+      "investment_potential": {
+        "rental_yield": "4.8%",
+        "price_trend": "+7% anual",
+        "demand_level": "Alto",
+        "target_tenants": ["Turistas culturales", "Profesionales", "Amantes del flamenco"]
+      },
+      "legal_status": "Libre de cargas",
+      "community_fees": 95,
+      "property_tax": 1100,
+      "images": ["/images/sevilla-triana-1.jpg", "/images/sevilla-triana-2.jpg"],
+      "virtual_tour": "https://stellarthomes.es/tours/SEV004"
+    },
+    {
+      "id": "MAL005",
+      "title": "Villa de Lujo en El Limonar",
+      "location": "El Limonar, Málaga",
+      "price": 850000,
+      "price_per_sqm": 4250,
+      "type": "Villa",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 200,
+      "year_built": 2021,
+      "energy_rating": "A+",
+      "description": "Villa de lujo de obra nueva en la exclusiva zona de El Limonar. Diseño contemporáneo con vistas al mar y montaña.",
+      "features": [
+        "Piscina privada de 8x4m",
+        "Jardín de 300m²",
+        "Terraza de 50m²",
+        "Gimnasio privado",
+        "Bodega climatizada",
+        "Cocina de chef con isla",
+        "Sistema domótico completo",
+        "Parking para 4 vehículos",
+        "Seguridad perimetral"
+      ],
+      "amenities": [
+        "Playa de La Malagueta (10 min)",
+        "Centro histórico (15 min)",
+        "Aeropuerto (20 min)",
+        "Golf (5 min)",
+        "Colegios internacionales"
+      ],
+      "investment_potential": {
+        "rental_yield": "4.5%",
+        "price_trend": "+15% anual",
+        "demand_level": "Muy Alto",
+        "target_tenants": ["Ejecutivos internacionales", "Familias de lujo", "Inversores"]
+      },
+      "legal_status": "Libre de cargas",
+      "community_fees": 0,
+      "property_tax": 2800,
+      "images": ["/images/malaga-limonar-1.jpg", "/images/malaga-limonar-2.jpg"],
+      "virtual_tour": "https://stellarthomes.es/tours/MAL005"
+    }
+  ],
+  "market_insights": {
+    "madrid": {
+      "average_price": 4500,
+      "price_trend": "+8.5%",
+      "rental_yield": "4.1%",
+      "demand": "Muy Alto",
+      "hot_zones": ["Chamberí", "Salamanca", "Retiro", "Chamartín"]
+    },
+    "barcelona": {
+      "average_price": 5200,
+      "price_trend": "+12%",
+      "rental_yield": "3.8%",
+      "demand": "Muy Alto",
+      "hot_zones": ["Eixample", "Gràcia", "Poblenou", "Sarrià-Sant Gervasi"]
+    },
+    "valencia": {
+      "average_price": 2800,
+      "price_trend": "+6%",
+      "rental_yield": "5.2%",
+      "demand": "Alto",
+      "hot_zones": ["Eixample", "Ruzafa", "Malvarrosa", "Ciutat Vella"]
+    },
+    "sevilla": {
+      "average_price": 2200,
+      "price_trend": "+7%",
+      "rental_yield": "4.8%",
+      "demand": "Alto",
+      "hot_zones": ["Triana", "Nervión", "Los Remedios", "Centro"]
+    },
+    "malaga": {
+      "average_price": 3500,
+      "price_trend": "+15%",
+      "rental_yield": "4.5%",
+      "demand": "Muy Alto",
+      "hot_zones": ["El Limonar", "Pedregalejo", "Centro", "Soho"]
+    }
+  }
+}

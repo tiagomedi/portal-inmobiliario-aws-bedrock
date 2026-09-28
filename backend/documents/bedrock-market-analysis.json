@@ -1,0 +1,302 @@
+{
+  "document_type": "real_estate_market_analysis",
+  "title": "Análisis del Mercado Inmobiliario Español 2024",
+  "last_updated": "2024-01-15",
+  "executive_summary": {
+    "market_status": "En crecimiento sostenido",
+    "price_trend": "+8.2% interanual",
+    "transaction_volume": "+12% respecto a 2023",
+    "rental_demand": "Muy alta en ciudades principales",
+    "investment_attractiveness": "Alta para inversores nacionales e internacionales"
+  },
+  "national_overview": {
+    "average_price_per_sqm": 1850,
+    "total_transactions_2023": 650000,
+    "foreign_buyers_percentage": 15.2,
+    "mortgage_approval_rate": 78.5,
+    "average_mortgage_amount": 180000,
+    "average_down_payment": 25
+  },
+  "city_analysis": {
+    "madrid": {
+      "average_price_per_sqm": 4500,
+      "price_trend_12m": "+8.5%",
+      "price_trend_5y": "+35%",
+      "rental_yield": "4.1%",
+      "vacancy_rate": "2.1%",
+      "foreign_buyers": "18%",
+      "hot_neighborhoods": [
+        {
+          "name": "Chamberí",
+          "price_per_sqm": 6200,
+          "trend": "+12%",
+          "characteristics": "Familias, profesionales, bien comunicado"
+        },
+        {
+          "name": "Salamanca",
+          "price_per_sqm": 8500,
+          "trend": "+10%",
+          "characteristics": "Lujo, diplomáticos, alta gama"
+        },
+        {
+          "name": "Retiro",
+          "price_per_sqm": 5800,
+          "trend": "+9%",
+          "characteristics": "Verde, cultural, tranquilo"
+        }
+      ],
+      "investment_opportunities": [
+        "Rehabilitación de edificios históricos",
+        "Desarrollo de vivienda de lujo",
+        "Inversión en zonas en regeneración"
+      ]
+    },
+    "barcelona": {
+      "average_price_per_sqm": 5200,
+      "price_trend_12m": "+12%",
+      "price_trend_5y": "+45%",
+      "rental_yield": "3.8%",
+      "vacancy_rate": "1.8%",
+      "foreign_buyers": "22%",
+      "hot_neighborhoods": [
+        {
+          "name": "Eixample",
+          "price_per_sqm": 7500,
+          "trend": "+15%",
+          "characteristics": "Modernista, céntrico, comercial"
+        },
+        {
+          "name": "Gràcia",
+          "price_per_sqm": 6800,
+          "trend": "+13%",
+          "characteristics": "Bohemio, joven, cultural"
+        },
+        {
+          "name": "Poblenou",
+          "price_per_sqm": 4200,
+          "trend": "+18%",
+          "characteristics": "Innovación, tech, playa"
+        }
+      ],
+      "investment_opportunities": [
+        "Desarrollo tecnológico en Poblenou",
+        "Rehabilitación de patrimonio modernista",
+        "Inversión en turismo de lujo"
+      ]
+    },
+    "valencia": {
+      "average_price_per_sqm": 2800,
+      "price_trend_12m": "+6%",
+      "price_trend_5y": "+25%",
+      "rental_yield": "5.2%",
+      "vacancy_rate": "3.2%",
+      "foreign_buyers": "12%",
+      "hot_neighborhoods": [
+        {
+          "name": "Eixample",
+          "price_per_sqm": 3200,
+          "trend": "+8%",
+          "characteristics": "Moderno, amplio, bien comunicado"
+        },
+        {
+          "name": "Ruzafa",
+          "price_per_sqm": 3800,
+          "trend": "+10%",
+          "characteristics": "Hipster, gastronómico, joven"
+        },
+        {
+          "name": "Malvarrosa",
+          "price_per_sqm": 3500,
+          "trend": "+7%",
+          "characteristics": "Playa, familiar, turístico"
+        }
+      ],
+      "investment_opportunities": [
+        "Desarrollo residencial cerca del mar",
+        "Rehabilitación del centro histórico",
+        "Inversión en turismo urbano"
+      ]
+    },
+    "sevilla": {
+      "average_price_per_sqm": 2200,
+      "price_trend_12m": "+7%",
+      "price_trend_5y": "+20%",
+      "rental_yield": "4.8%",
+      "vacancy_rate": "4.1%",
+      "foreign_buyers": "8%",
+      "hot_neighborhoods": [
+        {
+          "name": "Triana",
+          "price_per_sqm": 3200,
+          "trend": "+9%",
+          "characteristics": "Flamenco, histórico, auténtico"
+        },
+        {
+          "name": "Nervión",
+          "price_per_sqm": 2800,
+          "trend": "+6%",
+          "characteristics": "Moderno, comercial, bien comunicado"
+        },
+        {
+          "name": "Los Remedios",
+          "price_per_sqm": 2500,
+          "trend": "+5%",
+          "characteristics": "Residencial, tranquilo, familiar"
+        }
+      ],
+      "investment_opportunities": [
+        "Rehabilitación de casas históricas",
+        "Desarrollo de turismo cultural",
+        "Inversión en zonas en crecimiento"
+      ]
+    },
+    "malaga": {
+      "average_price_per_sqm": 3500,
+      "price_trend_12m": "+15%",
+      "price_trend_5y": "+55%",
+      "rental_yield": "4.5%",
+      "vacancy_rate": "2.5%",
+      "foreign_buyers": "35%",
+      "hot_neighborhoods": [
+        {
+          "name": "El Limonar",
+          "price_per_sqm": 4500,
+          "trend": "+18%",
+          "characteristics": "Exclusivo, mar, lujo"
+        },
+        {
+          "name": "Pedregalejo",
+          "price_per_sqm": 3800,
+          "trend": "+16%",
+          "characteristics": "Playa, pescaito, auténtico"
+        },
+        {
+          "name": "Soho",
+          "price_per_sqm": 3200,
+          "trend": "+20%",
+          "characteristics": "Arte, moderno, creativo"
+        }
+      ],
+      "investment_opportunities": [
+        "Desarrollo de vivienda de lujo",
+        "Inversión en turismo de calidad",
+        "Rehabilitación de edificios históricos"
+      ]
+    }
+  },
+  "property_types_analysis": {
+    "apartments": {
+      "market_share": "65%",
+      "average_price": 280000,
+      "price_trend": "+9%",
+      "rental_yield": "4.2%",
+      "demand_drivers": ["Urbanización", "Movilidad", "Servicios", "Transporte público"]
+    },
+    "houses": {
+      "market_share": "25%",
+      "average_price": 420000,
+      "price_trend": "+7%",
+      "rental_yield": "4.8%",
+      "demand_drivers": ["Espacio", "Privacidad", "Familias", "Trabajo remoto"]
+    },
+    "luxury_properties": {
+      "market_share": "8%",
+      "average_price": 1200000,
+      "price_trend": "+12%",
+      "rental_yield": "3.5%",
+      "demand_drivers": ["Inversión", "Segunda residencia", "Internacional", "Lujo"]
+    },
+    "commercial_properties": {
+      "market_share": "2%",
+      "average_price": 350000,
+      "price_trend": "+5%",
+      "rental_yield": "6.2%",
+      "demand_drivers": ["E-commerce", "Servicios", "Oficinas", "Retail"]
+    }
+  },
+  "investment_analysis": {
+    "best_yield_cities": [
+      {"city": "Valencia", "yield": "5.2%", "risk": "Bajo"},
+      {"city": "Sevilla", "yield": "4.8%", "risk": "Bajo"},
+      {"city": "Málaga", "yield": "4.5%", "risk": "Medio"},
+      {"city": "Madrid", "yield": "4.1%", "risk": "Bajo"},
+      {"city": "Barcelona", "yield": "3.8%", "risk": "Medio"}
+    ],
+    "price_appreciation_leaders": [
+      {"city": "Málaga", "appreciation": "+15%", "drivers": "Turismo, internacional, Costa del Sol"},
+      {"city": "Barcelona", "appreciation": "+12%", "drivers": "Tech, internacional, turismo"},
+      {"city": "Madrid", "appreciation": "+8.5%", "drivers": "Capital, servicios, internacional"},
+      {"city": "Valencia", "appreciation": "+6%", "drivers": "Calidad de vida, precio, playa"},
+      {"city": "Sevilla", "appreciation": "+7%", "drivers": "Turismo cultural, precio, autenticidad"}
+    ],
+    "foreign_investment": {
+      "total_percentage": "15.2%",
+      "top_foreign_buyers": [
+        {"country": "Reino Unido", "percentage": "25%", "preference": "Costa, segunda residencia"},
+        {"country": "Alemania", "percentage": "18%", "preference": "Costa, retiro"},
+        {"country": "Francia", "percentage": "15%", "preference": "Costa, inversión"},
+        {"country": "Italia", "percentage": "12%", "preference": "Ciudades, cultura"},
+        {"country": "Países Bajos", "percentage": "10%", "preference": "Inversión, alquiler"}
+      ],
+      "investment_motivations": [
+        "Segunda residencia (40%)",
+        "Inversión rentable (35%)",
+        "Retiro (15%)",
+        "Trabajo remoto (10%)"
+      ]
+    }
+  },
+  "market_forecasts": {
+    "2024_predictions": {
+      "price_growth": "+6-8%",
+      "transaction_volume": "+8-10%",
+      "rental_demand": "Mantenimiento alto",
+      "foreign_investment": "+5%",
+      "key_drivers": ["Trabajo remoto", "Turismo recuperado", "Inversión internacional", "Regeneración urbana"]
+    },
+    "long_term_trends": {
+      "sustainability": "Creciente demanda de vivienda eficiente",
+      "technology": "Domótica y smart homes en aumento",
+      "urbanization": "Concentración en ciudades principales",
+      "internationalization": "Mayor presencia de compradores extranjeros",
+      "regeneration": "Rehabilitación de centros históricos"
+    }
+  },
+  "risk_factors": {
+    "economic": [
+      "Incremento de tipos de interés",
+      "Inflación persistente",
+      "Ralentización económica global"
+    ],
+    "regulatory": [
+      "Nuevas regulaciones de alquiler",
+      "Cambios en fiscalidad",
+      "Restricciones a compradores extranjeros"
+    ],
+    "market": [
+      "Saturación en zonas turísticas",
+      "Competencia de otros destinos",
+      "Cambios en preferencias de vivienda"
+    ]
+  },
+  "investment_recommendations": {
+    "conservative": {
+      "target_cities": ["Madrid", "Valencia"],
+      "property_types": ["Apartamentos céntricos", "Casas en zonas consolidadas"],
+      "expected_yield": "4-5%",
+      "risk_level": "Bajo"
+    },
+    "moderate": {
+      "target_cities": ["Barcelona", "Sevilla"],
+      "property_types": ["Rehabilitación", "Zonas en crecimiento"],
+      "expected_yield": "4.5-5.5%",
+      "risk_level": "Medio"
+    },
+    "aggressive": {
+      "target_cities": ["Málaga", "Palma de Mallorca"],
+      "property_types": ["Lujo", "Desarrollo", "Zonas emergentes"],
+      "expected_yield": "5-7%",
+      "risk_level": "Alto"
+    }
+  }
+}

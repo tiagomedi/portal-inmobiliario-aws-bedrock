@@ -1,0 +1,75 @@
+{
+  "document_type": "properties_catalog",
+  "title": "Catálogo de Propiedades - STELLART HOMES",
+  "last_updated": "2024-01-15",
+  "content": {
+    "property_types": {
+      "casas": {
+        "price_range": "€100,000 - €800,000",
+        "typical_features": ["2-5 dormitorios", "1-4 baños", "jardín", "cochera"],
+        "popular_locations": ["Zonas residenciales", "barrios cerrados", "urbanizaciones"],
+        "ideal_for": ["Familias", "parejas con hijos", "personas que buscan espacio"]
+      },
+      "departamentos": {
+        "price_range": "€80,000 - €400,000",
+        "typical_features": ["1-3 dormitorios", "1-2 baños", "balcón", "ascensor"],
+        "popular_locations": ["Centros urbanos", "zonas céntricas", "torres"],
+        "ideal_for": ["Profesionales jóvenes", "parejas", "inversores"]
+      },
+      "terrenos": {
+        "price_range": "€50,000 - €300,000",
+        "typical_features": ["500m² - 2000m²", "servicios básicos"],
+        "popular_locations": ["Zonas en desarrollo", "periferia", "urbanizaciones"],
+        "ideal_for": ["Constructores", "inversores", "personas que quieren construir"]
+      },
+      "lofts": {
+        "price_range": "€120,000 - €350,000",
+        "typical_features": ["Espacios abiertos", "techos altos", "diseño moderno"],
+        "popular_locations": ["Zonas industriales reconvertidas", "centros urbanos"],
+        "ideal_for": ["Profesionales creativos", "parejas jóvenes", "artistas"]
+      }
+    },
+    "cities": {
+      "madrid": {
+        "zones": {
+          "centro": ["Sol", "Gran Vía", "Malasaña", "Chueca"],
+          "norte": ["Chamartín", "Salamanca", "Retiro"],
+          "sur": ["Arganzuela", "Usera", "Villaverde"],
+          "oeste": ["Moncloa", "Chamberí", "Tetuán"]
+        }
+      },
+      "barcelona": {
+        "zones": {
+          "centro": ["Eixample", "Gràcia", "Poble Sec", "Poblenou"],
+          "norte": ["Sant Andreu", "Nou Barris"],
+          "sur": ["Sants-Montjuïc", "Les Corts"]
+        }
+      },
+      "valencia": {
+        "zones": {
+          "centro": ["Centro", "Ruzafa", "El Carmen", "Benimaclet"],
+          "norte": ["Campanar", "Benicalap"],
+          "sur": ["Poblats Marítims", "Malvarrosa"]
+        }
+      },
+      "sevilla": {
+        "zones": {
+          "centro": ["Centro", "Triana", "Nervión", "Los Remedios"],
+          "norte": ["Macarena", "San Pablo"],
+          "sur": ["Cerro del Águila", "Bellavista"]
+        }
+      },
+      "malaga": {
+        "zones": {
+          "centro": ["Centro", "Soho", "El Limonar", "Pedregalejo"],
+          "norte": ["Carretera de Cádiz", "Ciudad Jardín"],
+          "este": ["El Palo", "La Caleta"]
+        }
+      }
+    },
+    "services": {
+      "basic": ["Agua corriente", "Gas natural", "Electricidad", "Cloacas", "Internet"],
+      "amenities": ["Piscina", "Gimnasio", "Salón de eventos", "Seguridad 24hs", "Cochera", "Jardín", "Terraza", "Ascensor"]
+    }
+  }
+}

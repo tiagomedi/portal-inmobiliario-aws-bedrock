@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STELLART HOMES</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <i class="fas fa-home"></i>
+                <span>STELLART HOMES</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="inicio" class="hero">
+        <div class="hero-container">
+            <div class="hero-content">
+                <h1 class="hero-title">
+                    Encuentra tu <span class="highlight">propiedad ideal</span>
+                </h1>
+                <p class="hero-subtitle">
+                    Con asistencia basada en IA para resolver tus dudas y ayudarte a encontrar la casa ideal.                </p>
+                
+                <!-- Search Form -->
+                <div class="search-form">
+                    <div class="search-row">
+                        <div class="search-group search-group-large">
+                            <i class="fas fa-search"></i>
+                            <input type="text" id="searchInput" placeholder="¿Qué estás buscando? (ubicación, tipo, características...)" class="search-input">
+                        </div>
+                        <button class="search-btn" onclick="searchProperties()">
+                            <i class="fas fa-search"></i>
+                            Buscar
+                        </button>
+                    </div>
+                    
+                    <div class="search-filters">
+                        <div class="filter-group">
+                            <label for="propertyType">Tipo</label>
+                            <select id="propertyType" class="filter-select">
+                                <option value="">Todos los tipos</option>
+                                <option value="casa">Casa</option>
+                                <option value="departamento">Departamento</option>
+                                <option value="terreno">Terreno</option>
+                                <option value="ático">Ático</option>
+                                <option value="villa">Villa</option>
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="minPrice">Precio Mín.</label>
+                            <select id="minPrice" class="filter-select">
+                                <option value="">Sin mínimo</option>
+                                <option value="50000">€50,000</option>
+                                <option value="100000">€100,000</option>
+                                <option value="200000">€200,000</option>
+                                <option value="300000">€300,000</option>
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="maxPrice">Precio Máx.</label>
+                            <select id="maxPrice" class="filter-select">
+                                <option value="">Sin máximo</option>
+                                <option value="200000">€200,000</option>
+                                <option value="300000">€300,000</option>
+                                <option value="500000">€500,000</option>
+                                <option value="1000000">€1,000,000</option>
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="bedrooms">Dormitorios</label>
+                            <select id="bedrooms" class="filter-select">
+                                <option value="">Cualquiera</option>
+                                <option value="1">1+</option>
+                                <option value="2">2+</option>
+                                <option value="3">3+</option>
+                                <option value="4">4+</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Properties Section -->
+    <section id="propiedades" class="properties">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Propiedades destacadas</h2>
+                <p class="section-subtitle">Descubre las mejores opciones disponibles</p>
+            </div>
+            
+            <div class="properties-grid" id="propertiesGrid">
+                <!-- Las propiedades se cargarán dinámicamente aquí -->
+            </div>
+            
+            <div class="properties-loading" id="propertiesLoading" style="display: none;">
+                <div class="loading-spinner"></div>
+                <p>Cargando propiedades...</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <!-- <section id="servicios" class="services">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Nuestros Servicios</h2>
+                <p class="section-subtitle">Te ayudamos en cada paso del proceso</p>
+            </div>
+            
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-search"></i>
+                    </div>
+                    <h3>Búsqueda Inteligente</h3>
+                    <p>Encuentra propiedades que se adapten perfectamente a tus necesidades con nuestra tecnología de búsqueda avanzada.</p>
+                </div>
+                
+                <div class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <h3>Asistente IA</h3>
+                    <p>Obtén respuestas instantáneas a tus preguntas sobre propiedades, financiamiento y procesos legales.</p>
+                </div>
+                
+                <div class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-handshake"></i>
+                    </div>
+                    <h3>Asesoría Personalizada</h3>
+                    <p>Nuestros expertos te guían en todo el proceso de compra, venta o alquiler de propiedades.</p>
+                </div>
+                
+                <div class="service-card">
+                    <div class="service-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3>Proceso Seguro</h3>
+                    <p>Garantizamos transacciones seguras y transparentes con todos los documentos legales en orden.</p>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+    <!-- Chat Widget -->
+    <div class="chat-widget" id="chatWidget">
+        <div class="chat-toggle" id="chatToggle">
+            <i class="fas fa-comments"></i>
+            <span class="chat-badge">1</span>
+        </div>
+        
+        <div class="chat-container" id="chatContainer">
+            <div class="chat-header">
+                <div class="chat-title">
+                    <i class="fas fa-robot"></i>
+                    <span>Asistente Inmobiliario</span>
+                </div>
+                <button class="chat-close" id="chatClose">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            
+            <div class="chat-messages" id="chatMessages">
+                <div class="message bot-message">
+                    <div class="message-avatar">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <div class="message-content">
+                        <p>¡Hola! Soy tu asistente inmobiliario. ¿En qué puedo ayudarte hoy?</p>
+                        <span class="message-time">Ahora</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="chat-input-container">
+                <div class="chat-input-group">
+                    <input type="text" id="chatInput" placeholder="Escribe tu mensaje..." class="chat-input">
+                    <button id="chatSend" class="chat-send">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="footer-brand">
+                        <i class="fas fa-home"></i>
+                        <span>STELLART HOMES</span>
+                    </div>
+                    <p>Tu plataforma confiable para encontrar la propiedad perfecta con la ayuda de inteligencia artificial.</p>
+                </div>
+                
+            
+            <div class="footer-bottom">
+                <p>&copy; 2025 STELLART HOMES. Todos los derechos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="config.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

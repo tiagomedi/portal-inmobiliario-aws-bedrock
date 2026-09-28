@@ -1,0 +1,412 @@
+{
+  "document_type": "real_estate_investment_guide",
+  "title": "Guía Completa de Inversión Inmobiliaria en España 2024",
+  "last_updated": "2024-01-15",
+  "introduction": {
+    "overview": "España ofrece excelentes oportunidades de inversión inmobiliaria con rendimientos atractivos, estabilidad legal y un mercado en crecimiento. Esta guía cubre todos los aspectos necesarios para invertir con éxito.",
+    "target_audience": ["Inversores nacionales", "Inversores internacionales", "Primeros inversores", "Inversores experimentados"],
+    "key_benefits": [
+      "Rendimientos del 3.5% al 6.2%",
+      "Estabilidad legal y política",
+      "Mercado en crecimiento sostenido",
+      "Diversificación geográfica",
+      "Fiscalidad favorable"
+    ]
+  },
+  "investment_strategies": {
+    "buy_and_hold": {
+      "description": "Compra de propiedades para alquiler a largo plazo",
+      "target_yield": "4-6%",
+      "time_horizon": "5-15 años",
+      "best_properties": ["Apartamentos céntricos", "Casas en zonas consolidadas", "Propiedades cerca de universidades"],
+      "advantages": [
+        "Renta mensual estable",
+        "Apreciación del capital",
+        "Diversificación del riesgo",
+        "Hedge contra la inflación"
+      ],
+      "considerations": [
+        "Gestión de inquilinos",
+        "Mantenimiento de la propiedad",
+        "Vacantes temporales",
+        "Cambios en la legislación"
+      ]
+    },
+    "flip_and_sell": {
+      "description": "Compra, rehabilitación y venta rápida para obtener plusvalías",
+      "target_profit": "15-30%",
+      "time_horizon": "6-18 meses",
+      "best_properties": ["Propiedades en mal estado", "Zonas en regeneración", "Oportunidades de subasta"],
+      "advantages": [
+        "Liquidez rápida",
+        "Alto potencial de ganancia",
+        "Menos gestión a largo plazo",
+        "Flexibilidad de mercado"
+      ],
+      "considerations": [
+        "Riesgo de mercado",
+        "Costes de rehabilitación",
+        "Permisos y licencias",
+        "Timing de venta"
+      ]
+    },
+    "short_term_rental": {
+      "description": "Alquiler turístico y de corta estancia",
+      "target_yield": "6-12%",
+      "time_horizon": "2-5 años",
+      "best_properties": ["Apartamentos en zonas turísticas", "Casas cerca de playas", "Propiedades en centros históricos"],
+      "advantages": [
+        "Mayor rentabilidad",
+        "Flexibilidad de uso",
+        "Menos dependencia de inquilinos",
+        "Potencial turístico"
+      ],
+      "considerations": [
+        "Regulación local",
+        "Estacionalidad",
+        "Gestión intensiva",
+        "Competencia"
+      ]
+    },
+    "commercial_real_estate": {
+      "description": "Inversión en locales comerciales, oficinas y naves industriales",
+      "target_yield": "5-8%",
+      "time_horizon": "5-20 años",
+      "best_properties": ["Locales en zonas comerciales", "Oficinas en CBD", "Naves logísticas"],
+      "advantages": [
+        "Contratos de alquiler largos",
+        "Menos gestión",
+        "Alto rendimiento",
+        "Estabilidad del inquilino"
+      ],
+      "considerations": [
+        "Mayor inversión inicial",
+        "Riesgo de vacante",
+        "Dependencia económica",
+        "Regulación específica"
+      ]
+    }
+  },
+  "city_investment_profiles": {
+    "madrid": {
+      "investment_rating": "A+",
+      "average_yield": "4.1%",
+      "price_trend": "+8.5%",
+      "best_neighborhoods": [
+        {
+          "name": "Chamberí",
+          "yield": "4.2%",
+          "price_per_sqm": 6200,
+          "target_tenants": "Familias profesionales, ejecutivos",
+          "investment_tips": "Buscar propiedades cerca del metro, con ascensor y balcón"
+        },
+        {
+          "name": "Salamanca",
+          "yield": "3.8%",
+          "price_per_sqm": 8500,
+          "target_tenants": "Diplomáticos, ejecutivos de alto nivel",
+          "investment_tips": "Propiedades de alta gama, bien conservadas, con portería"
+        },
+        {
+          "name": "Retiro",
+          "yield": "4.0%",
+          "price_per_sqm": 5800,
+          "target_tenants": "Familias, profesionales liberales",
+          "investment_tips": "Cerca del parque, con jardín o terraza, bien comunicado"
+        }
+      ],
+      "investment_opportunities": [
+        "Rehabilitación de edificios históricos",
+        "Desarrollo de vivienda de lujo",
+        "Inversión en zonas en regeneración como Usera",
+        "Propiedades cerca de universidades"
+      ]
+    },
+    "barcelona": {
+      "investment_rating": "A",
+      "average_yield": "3.8%",
+      "price_trend": "+12%",
+      "best_neighborhoods": [
+        {
+          "name": "Eixample",
+          "yield": "3.5%",
+          "price_per_sqm": 7500,
+          "target_tenants": "Profesionales internacionales, turistas de lujo",
+          "investment_tips": "Propiedades con ascensor, balcón, cerca del metro"
+        },
+        {
+          "name": "Gràcia",
+          "yield": "4.0%",
+          "price_per_sqm": 6800,
+          "target_tenants": "Jóvenes profesionales, creativos",
+          "investment_tips": "Propiedades con carácter, terrazas, cerca de plazas"
+        },
+        {
+          "name": "Poblenou",
+          "yield": "4.5%",
+          "price_per_sqm": 4200,
+          "target_tenants": "Tech workers, emprendedores",
+          "investment_tips": "Propiedades modernas, con parking, cerca de la playa"
+        }
+      ],
+      "investment_opportunities": [
+        "Desarrollo tecnológico en Poblenou",
+        "Rehabilitación de patrimonio modernista",
+        "Inversión en turismo de lujo",
+        "Propiedades cerca de la playa"
+      ]
+    },
+    "valencia": {
+      "investment_rating": "A",
+      "average_yield": "5.2%",
+      "price_trend": "+6%",
+      "best_neighborhoods": [
+        {
+          "name": "Eixample",
+          "yield": "5.0%",
+          "price_per_sqm": 3200,
+          "target_tenants": "Familias, profesionales",
+          "investment_tips": "Propiedades amplias, con ascensor, cerca del metro"
+        },
+        {
+          "name": "Ruzafa",
+          "yield": "5.5%",
+          "price_per_sqm": 3800,
+          "target_tenants": "Jóvenes profesionales, turistas",
+          "investment_tips": "Propiedades con carácter, terrazas, cerca de restaurantes"
+        },
+        {
+          "name": "Malvarrosa",
+          "yield": "5.8%",
+          "price_per_sqm": 3500,
+          "target_tenants": "Turistas, familias de playa",
+          "investment_tips": "Cerca de la playa, con terraza, parking"
+        }
+      ],
+      "investment_opportunities": [
+        "Desarrollo residencial cerca del mar",
+        "Rehabilitación del centro histórico",
+        "Inversión en turismo urbano",
+        "Propiedades cerca de universidades"
+      ]
+    },
+    "malaga": {
+      "investment_rating": "A-",
+      "average_yield": "4.5%",
+      "price_trend": "+15%",
+      "best_neighborhoods": [
+        {
+          "name": "El Limonar",
+          "yield": "4.0%",
+          "price_per_sqm": 4500,
+          "target_tenants": "Ejecutivos internacionales, familias de lujo",
+          "investment_tips": "Propiedades de alta gama, con piscina, vistas al mar"
+        },
+        {
+          "name": "Pedregalejo",
+          "yield": "4.8%",
+          "price_per_sqm": 3800,
+          "target_tenants": "Turistas, profesionales",
+          "investment_tips": "Cerca de la playa, con terraza, auténtico"
+        },
+        {
+          "name": "Soho",
+          "yield": "5.2%",
+          "price_per_sqm": 3200,
+          "target_tenants": "Artistas, creativos, turistas culturales",
+          "investment_tips": "Propiedades con carácter, cerca de galerías, modernas"
+        }
+      ],
+      "investment_opportunities": [
+        "Desarrollo de vivienda de lujo",
+        "Inversión en turismo de calidad",
+        "Rehabilitación de edificios históricos",
+        "Propiedades cerca de la playa"
+      ]
+    }
+  },
+  "financial_considerations": {
+    "financing_options": {
+      "mortgage_loans": {
+        "description": "Préstamos hipotecarios tradicionales",
+        "typical_ltv": "80%",
+        "interest_rates": "3.5-4.5%",
+        "requirements": ["Ingresos demostrables", "Aval bancario", "Anticipo del 20%"],
+        "best_for": "Inversores con ingresos estables"
+      },
+      "cash_purchase": {
+        "description": "Compra al contado",
+        "advantages": ["Negociación de precio", "Proceso más rápido", "Sin costes financieros"],
+        "considerations": ["Mayor capital inicial", "Oportunidad cost"],
+        "best_for": "Inversores con liquidez alta"
+      },
+      "private_financing": {
+        "description": "Financiación privada o crowdfunding",
+        "typical_ltv": "70-90%",
+        "interest_rates": "6-12%",
+        "advantages": ["Proceso más rápido", "Menos requisitos", "Flexibilidad"],
+        "considerations": ["Mayor coste", "Plazos más cortos"],
+        "best_for": "Oportunidades de inversión rápidas"
+      }
+    },
+    "costs_and_fees": {
+      "purchase_costs": {
+        "notary_fees": "0.5-1% del valor",
+        "registration_fees": "0.5% del valor",
+        "property_transfer_tax": "6-10% (ITP) o 10% (IVA para obra nueva)",
+        "legal_fees": "0.5-1% del valor",
+        "surveyor_fees": "300-800€",
+        "total_estimated": "8-12% del valor de compra"
+      },
+      "ongoing_costs": {
+        "community_fees": "50-300€/mes",
+        "property_tax": "0.4-1.1% del valor catastral",
+        "insurance": "200-800€/año",
+        "maintenance": "1-2% del valor anual",
+        "management_fees": "5-10% de la renta"
+      }
+    },
+    "tax_implications": {
+      "income_tax": {
+        "rental_income": "19-47% según tramos",
+        "deductible_expenses": [
+          "Intereses hipotecarios",
+          "Gastos de comunidad",
+          "Seguros",
+          "Mantenimiento",
+          "Amortización",
+          "Gestión"
+        ]
+      },
+      "capital_gains": {
+        "tax_rate": "19-23%",
+        "exemptions": [
+          "Reinversión en vivienda habitual",
+          "Plusvalías menores de 6,000€",
+          "Propiedades adquiridas antes de 1994"
+        ]
+      },
+      "wealth_tax": {
+        "threshold": "700,000€",
+        "rates": "0.2-2.5%",
+        "exemptions": "Vivienda habitual hasta 300,000€"
+      }
+    }
+  },
+  "due_diligence_checklist": {
+    "legal_verification": [
+      "Título de propiedad",
+      "Certificado de dominio",
+      "Cargas y gravámenes",
+      "Licencias de obra",
+      "Certificado de habitabilidad",
+      "Certificado energético"
+    ],
+    "financial_analysis": [
+      "Análisis de rentabilidad",
+      "Comparativa de mercado",
+      "Proyección de flujos de caja",
+      "Análisis de sensibilidad",
+      "Evaluación de riesgos"
+    ],
+    "property_inspection": [
+      "Estado estructural",
+      "Instalaciones (luz, agua, gas)",
+      "Ascensor y escaleras",
+      "Fachada y cubierta",
+      "Comunidad de propietarios",
+      "Servicios cercanos"
+    ],
+    "market_research": [
+      "Precios de venta comparables",
+      "Precios de alquiler comparables",
+      "Tendencia de precios",
+      "Oferta y demanda",
+      "Planes urbanísticos",
+      "Infraestructuras futuras"
+    ]
+  },
+  "risk_management": {
+    "market_risks": {
+      "price_volatility": {
+        "description": "Fluctuaciones en los precios del mercado",
+        "mitigation": ["Diversificación geográfica", "Análisis de tendencias", "Inversión a largo plazo"]
+      },
+      "interest_rate_risk": {
+        "description": "Cambios en los tipos de interés",
+        "mitigation": ["Tipos fijos", "Refinanciación", "Análisis de sensibilidad"]
+      },
+      "economic_downturn": {
+        "description": "Recesión económica",
+        "mitigation": ["Reservas de liquidez", "Propiedades en zonas resistentes", "Diversificación"]
+      }
+    },
+    "property_risks": {
+      "vacancy_risk": {
+        "description": "Períodos sin inquilinos",
+        "mitigation": ["Ubicación atractiva", "Precios competitivos", "Gestión profesional"]
+      },
+      "maintenance_risk": {
+        "description": "Costes de mantenimiento imprevistos",
+        "mitigation": ["Inspección previa", "Reservas de mantenimiento", "Seguros"]
+      },
+      "regulatory_risk": {
+        "description": "Cambios en la legislación",
+        "mitigation": ["Seguimiento legal", "Asesoramiento profesional", "Diversificación"]
+      }
+    }
+  },
+  "investment_tools": {
+    "financial_calculators": {
+      "rental_yield": "Renta anual / Precio de compra × 100",
+      "cash_flow": "Renta mensual - Gastos mensuales",
+      "roi": "(Ganancia total / Inversión inicial) × 100",
+      "cap_rate": "NOI / Precio de compra × 100"
+    },
+    "market_analysis_tools": [
+      "Comparativa de precios",
+      "Análisis de tendencias",
+      "Proyecciones de rentabilidad",
+      "Evaluación de riesgos",
+      "Optimización de cartera"
+    ]
+  },
+  "success_stories": [
+    {
+      "investor_type": "Primer inversor",
+      "property": "Apartamento en Chamberí, Madrid",
+      "purchase_price": 350000,
+      "current_value": 420000,
+      "monthly_rent": 1200,
+      "yield": "4.1%",
+      "appreciation": "+20% en 3 años",
+      "key_success_factors": ["Ubicación céntrica", "Bien comunicado", "Gestión profesional"]
+    },
+    {
+      "investor_type": "Inversor experimentado",
+      "property": "Casa en El Limonar, Málaga",
+      "purchase_price": 650000,
+      "current_value": 850000,
+      "monthly_rent": 2800,
+      "yield": "4.3%",
+      "appreciation": "+31% en 2 años",
+      "key_success_factors": ["Zona de lujo", "Vistas al mar", "Mercado internacional"]
+    }
+  ],
+  "next_steps": {
+    "for_beginners": [
+      "Definir presupuesto y objetivos",
+      "Estudiar el mercado local",
+      "Buscar asesoramiento profesional",
+      "Comenzar con una propiedad pequeña",
+      "Aprender sobre gestión de propiedades"
+    ],
+    "for_experienced": [
+      "Diversificar la cartera",
+      "Explorar nuevas oportunidades",
+      "Optimizar la gestión",
+      "Considerar inversiones comerciales",
+      "Evaluar mercados emergentes"
+    ]
+  }
+}
